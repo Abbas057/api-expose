@@ -1,0 +1,5 @@
+com\example\task\dao\AbstractDAO.class
+com\example\task\dao\TaskDAO.class
+com\example\task\servlet\TaskServlet.class
+com\example\task\dao\TaskOperations.class
+com\example\task\model\Task.class
